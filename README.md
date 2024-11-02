@@ -1,8 +1,8 @@
 # My Cat Named Theodore 
 
-I got a new cat in October from a gas station. His name is 
+**I got a new cat in October from a gas station. His name is 
 Theodore, but his close friends and family call him Teddy. 
-He has an alter ego named Ricky when he misbehaves.
+He has an alter ego named Ricky when he misbehaves.**
 ![8258360F-770A-454C-87E4-93A0E9D09CC4_1_102_o](https://github.com/user-attachments/assets/b03bcb18-ea86-4c70-a239-b270070e1db8)
 
 ## Topics about Teddy aka Ricky 
