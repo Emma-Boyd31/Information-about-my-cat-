@@ -1,5 +1,5 @@
 # What Teddy can and cannot do....
-When Teddy is bad make sure to call him RICKY!!!
+_When Teddy is bad make sure to call him RICKY!!!_
 
 ## What Teddy can do
 * Get on the couches
