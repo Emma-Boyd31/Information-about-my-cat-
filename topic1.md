@@ -12,3 +12,4 @@ placed in a location not accessible to Ricky.
 
 Teddy is scheduled to go back to the vet on Friday, November 22nd. 
 Exactly a month after his last visit. 
+![download](https://github.com/user-attachments/assets/7b5c462a-f230-416b-881a-7060d196550a)
