@@ -16,3 +16,10 @@ Exactly a month after his last visit.
 
 
 ![download](https://github.com/user-attachments/assets/7b5c462a-f230-416b-881a-7060d196550a)
+
+
+### Where do you want to go...
+
+-Go to [Next Page](topic2.md)
+
+-Go to [Home](README.md)
