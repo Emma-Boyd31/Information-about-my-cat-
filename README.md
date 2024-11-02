@@ -16,4 +16,4 @@ He has an alter ego named Ricky when he misbehaves.
 
 -Go to [Next Page](topic1.md)
 
--Go to [Home] (README.md)
+-Go to [Home](README.md)
