@@ -13,9 +13,11 @@ When Teddy is bad make sure to call him RICKY!!!
 
 ## What Ricky cannot do
 * Get on the beds
-* Go in our rooms
+* Go into our rooms
 * Get on the counters
 * Bite
 * Scratch
-  
 
+  
+### You're officially a Teddy and Ricky knowledge machine 
+-Go to [Home](README.md)
